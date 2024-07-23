@@ -1,5 +1,4 @@
 # Excel-Sales-Report
-This practice exercise will take you one step closer to becoming a data analyst
 
 The objective of this task is to generate reports that provide answers to the following business inquiries:
 
